@@ -20,7 +20,9 @@ I already have some programming knowledge. I want to know more techolodgies and 
 Github: https://github.com/dzmitrymukaseyeu
 
 ## Experience
+My portfolio: https://dzmitrymukaseyeu.github.io/
 
+Now, I’m working on a project “WhereToGo”: https://arcane-caverns-08308.herokuapp.com/
 
 ## Education
 * SKILLUP courses : Introduction to HTML, Learn CSS, Introduction to JavaScript
