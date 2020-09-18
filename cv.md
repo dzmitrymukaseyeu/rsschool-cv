@@ -2,7 +2,7 @@
 
 ## Contacts
 * Located in Minsk, Belarus
-* email: rita.aniskovet@gmail.com
+* email: dzmitry.mukaseyeu@gmail.com
 * mobile: +375296666305
 
 ## Summary
