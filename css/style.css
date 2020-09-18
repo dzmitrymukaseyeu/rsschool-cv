@@ -68,6 +68,22 @@ a {
     align-self: center;
 }
 
+.l-link {
+    margin-top: 10px;
+}
+
+.l-link__item {
+    display: inline;
+} 
+
+.l-link__item:nth-child(n+2){
+    margin-left: 30px;
+}
+
+.l-link__item img {
+    width: 40px;
+    height: 40px;
+}
 
 .l-info li:nth-child(n+2){
     margin-top: 3px;
